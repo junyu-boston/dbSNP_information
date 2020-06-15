@@ -10,6 +10,9 @@ I believe python can do the same thing.
 The code is here:
 https://github.com/ncbi/dbsnp/blob/master/tutorials/hadoop_json_placement.py
 
+NCBI dbSNP json API:
+https://ncbiinsights.ncbi.nlm.nih.gov/2018/06/15/dbsnp-updates-json-refsnp-report-api/
+
 ## Method 2:
 SNPnexus.org
 can output tsv format
