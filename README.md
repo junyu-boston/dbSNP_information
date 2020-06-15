@@ -7,6 +7,9 @@ In R, you can use jsonlite to import with this link directly.
 then figure out to parse the required information with script. 
 I believe python can do the same thing.
 
+The code is here:
+https://github.com/ncbi/dbsnp/blob/master/tutorials/hadoop_json_placement.py
+
 ## Method 2:
 SNPnexus.org
 can output tsv format
