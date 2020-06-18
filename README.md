@@ -24,3 +24,7 @@ This is a really cool approach.
 
 ## method 4:
 biomaRt?
+
+## method 5:
+https://thelaziestprogrammer.com/bioinformatics/warehousing-DbSNP-Part-I-download-and-create-db#parsing-the-json-data
+Will adapt this.
